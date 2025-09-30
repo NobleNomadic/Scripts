@@ -1,3 +1,2 @@
-# Scripts 
-Simple scripts and utilities that I use on Linux
-
+# Scripts
+The scripts I use for automating simple tasks on linux
